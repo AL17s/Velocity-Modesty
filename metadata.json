@@ -1,0 +1,6 @@
+{
+  "name": "Velocity - Productivity & Daily Scheduling",
+  "description": "Modern daily timeline, time blocking, and task management system designed to reduce cognitive load and supercharge daily execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
